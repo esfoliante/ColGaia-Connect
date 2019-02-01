@@ -9,3 +9,6 @@ You can use this code but don't use it for malicious porpouses...
 If you want to contact me please send an e-mail to: miguel@se3me.com
 
 If you want you can do a pull request just translating stuff
+
+## Instructions
+The software will give the person who's hosting the connection the person's computer IP (so make sure you give it to a person you trust) and then, the friend, will just connect via the IP, then... JUST CHAT and have fun :D
