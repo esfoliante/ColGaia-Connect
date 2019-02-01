@@ -5,5 +5,7 @@ Be free to use it and make pull requests with changes! Can't wait to see your aw
 
 ## Important infos
 You can use this code but don't use it for malicious porpouses...
+
 If you want to contact me please send an e-mail to: miguel@se3me.com
+
 If you want you can do a pull request just translating stuff
